@@ -3,7 +3,7 @@
 Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 
 ## 📝 Lista de Video Aulas
-
+1. [ Introdução](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6&index=1)
 
 
 
@@ -14,7 +14,7 @@ Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 
 
 ## 📑 Referências Utilizadas
-A ideias para os projetos vieram deste artigo:<br>
+
 [Curso de JavaScript - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
 
 
