@@ -16,7 +16,6 @@ Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 
 
 ## 📑 Referências Utilizadas
-
 [Curso de JavaScript - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
 
 
