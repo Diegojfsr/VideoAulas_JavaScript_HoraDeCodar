@@ -3,11 +3,12 @@
 Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 
 ## 📝 Lista de VideoAulas
-1. [Introdução](https://)
-2. [Primeiro Programa](https://)
-3. [Como inserir código JavaScript em uma página web](https://)
-4. [Particularidades da linguagem JavaScript](https://)
-5. [Declarando variáveis](https://)
+
+- ✅ [Introdução](https://)
+-  [Primeiro Programa](https://)
+-  [Como inserir código JavaScript em uma página web](https://)
+-  [Particularidades da linguagem JavaScript](https://)
+-  [Declarando variáveis](https://)
 
 
 ## 🛠 Tecnologias Utilizadas
