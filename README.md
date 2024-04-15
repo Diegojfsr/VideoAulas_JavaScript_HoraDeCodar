@@ -10,8 +10,6 @@ Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 5. [Declarando variáveis](https://)
 
 
-
-
 ## 🛠 Tecnologias Utilizadas
 - VS Code.
 - JavaScript.
