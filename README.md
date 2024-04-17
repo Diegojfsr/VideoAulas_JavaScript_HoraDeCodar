@@ -7,8 +7,8 @@ Esse é o meu repositório de VideoAulas de JavaScript resolvidos.
 - ✅ [Introdução](https://)
 - ✅ [Primeiro Programa](https://)
 - ✅ [Como inserir código JavaScript em uma página web](https://)
-- ✅ [Particularidades da linguagem JavaScript](https://)
-- ✅ [Declarando variáveis](https://)
+-  [Particularidades da linguagem JavaScript](https://)
+-  [Declarando variáveis](https://)
 
 
 ## 🛠 Tecnologias Utilizadas
