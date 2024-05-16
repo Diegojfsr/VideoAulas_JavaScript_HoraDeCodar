@@ -1,4 +1,6 @@
 
+![](https://github.com/Diegojfsr/VideoAulas_JavaScript_HoraDeCodar/blob/main/img/Capa_Projetos_JavaScript1.jpg)
+
 ### Seja bem-vindo!!! Esse é o meu repositorio do Curso de JavaScript - Hora de Codar.
 _Este repositório foi criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o Curso de JavaScript Matheus Battisti - Hora de Codar._
 
