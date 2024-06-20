@@ -10,7 +10,6 @@ console.log("O Joao pode entrar na aula de sgrima.");
 }
 
 
-
 if (1 == 1 && 3 > 2 && true){
 console.log("Passou");
 }
