@@ -15,7 +15,7 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Primeiro Programa]()  
 > ☑️ [Como inserir código JavaScript em uma página web]()  
 > ☑️ [Particularidades da linguagem JavaScript]()  
-> ☑️ [Declarando variáveis]()
+> ☑️ [Declarando variáveis]()  
 > ☑️ [Tipo de Dados - Number]()
 
 
