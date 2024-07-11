@@ -15,7 +15,7 @@ var listaNoBody = document.getElementsByTagName("ul");
 
 console.log(listaNoBody[0]);
 
-for(var = 0; i < list.length; i++) {
+for(var i = 0; i < list.length; i++) {
 
 var liFor = document.createelement("li");
 
